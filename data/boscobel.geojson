@@ -1,0 +1,1555 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AmericInn",
+        "type": "Lodging",
+        "address": "1700 Elm St Boscobel WI, 53805",
+        "phone_number": 6083758000,
+        "website": "http://www.americinn.com",
+        "description": "Welcome to The AmericInn in Boscobel. Whether it’s business or pleasure, you will enjoy the elegant lobby, clean and attractive rooms and suites, special amenities, friendly service and reasonable rates at AmericInn Hotel and Suites, one of the finest hotels in Southwest Wisconsin!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.709203,
+          43.126335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cliffside Cabin & Recreational Rentals",
+        "type": "Lodging",
+        "address": "23023 Aigner Drive Muscoda, WI 53573",
+        "phone_number": 6085335168,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40791,
+          43.20237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Driftless Lodge Vacation Homes & Cabins",
+        "type": "Lodging",
+        "address": "151121 US 61 Boscobel, WI 53805",
+        "phone_number": 6088223950,
+        "website": "http://driftlesslodge.com/",
+        "description": "The Driftless Lodge guest house, cabins and vacation homes are located in the unglaciated “Driftless Area” of Southwest Wisconsin on our 4th generation working cattle and horse farm. We are nestled in a valley with rolling hills and ridges atop. Step back and recharge while fishing in class 1 trout streams, turkey and deer hunting, hiking, horse riding, snowshoeing, and watching for wildlife or listening to birds. There are also many places to sightsee in our area. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.682012,
+          43.053798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fenmore Hills Motel",
+        "type": "Lodging",
+        "address": "5821 US Hwy 18 Fennimore WI 53809",
+        "phone_number": 6088223281,
+        "website": "http://www.fenmorehillsmotel.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.710046,
+          42.989419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hubl's Motel",
+        "type": "Lodging",
+        "address": "41120 State Highway 60 Boscobel WI 53805",
+        "phone_number": 6083754277,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.697139,
+          43.17088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laughing Llama Farm and Country Cabins",
+        "type": "Lodging",
+        "address": "15859 Dry Hollow Rd Boscobel Wi 53805",
+        "phone_number": 6083755774,
+        "website": "llaughingllama.com",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.677457,
+          43.080093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rooster Ridge Lodge",
+        "type": "Lodging",
+        "address": "47990 Cty Rd W, Gays Mills, WI 54631",
+        "phone_number": 6084762256,
+        "website": "http://www.roosterridgewi.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.82431,
+          43.24442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sands Motel",
+        "type": "Lodging",
+        "address": "300 Elm St Boscobel WI 53805",
+        "phone_number": 6083754167,
+        "website": "https://www.facebook.com/SandsMotel1",
+        "description": "Room Features: free local telephone calls, free WiFi, air conditioning, satellite television, AM/FM alarm clock, some rooms with hair dryers, some rooms with refrigerators."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71167,
+          43.14065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheer Memories Bed & Breakfast",
+        "type": "Lodging",
+        "address": "6351 County Highway P Muscoda WI 53573",
+        "phone_number": 6084451547,
+        "website": "http://www.sheermemories.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.373915,
+          43.122442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Riverside Park - Camping",
+        "type": "Lodging",
+        "address": "300 E River Rd Muscoda WI 53573",
+        "phone_number": 6087392924,
+        "website": "",
+        "description": "25 campsites with electricity, 7 campsites without electricity, and tent camping available along the scenic Lower Wisconsin Riverway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.439855,
+          43.196797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue River Bluffs",
+        "type": "Nature and Outdoors",
+        "address": "Old County C Road and Checzik Road Boscobel Wi 53805",
+        "phone_number": "",
+        "website": "http://dnr.wi.gov/topic/Lands/naturalareas/index.asp?SNA=316",
+        "description": "Blue River Bluffs State Natural Area Located in the Driftless Area of southwest Wisconsin, Blue River Bluffs features a complex of dry prairies and oak savannas situated on sand terraces above the floodplain of the lower Wisconsin River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.609759,
+          43.174308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue River Sand Barrens State Natural Area",
+        "type": "Nature and Outdoors",
+        "address": "State Hwy 133 and Wightman Road Blue River WI 53518",
+        "phone_number": "",
+        "website": "",
+        "description": "Blue River Sand Barrens features one of the largest and best examples of this harsh and arid ecological community in Wisconsin. Sand barrens are upland communities that develop on unstable alluvial sands along rivers such as the Mississippi and Wisconsin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5282,
+          43.18685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat Launch at Riverside Park-Muscoda",
+        "type": "Canoeing/Kayaking",
+        "address": "East Water St. and 4th St. Muscoda WI 53573",
+        "phone_number": "",
+        "website": "https://muscoda.com/village-info/",
+        "description": "Located on left bank up river from bridge. Amenities – Rest rooms, showers, campground, trash cans, convenience store .5 miles away, grocery 1 mile away"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.439164,
+          43.197496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Area Sportsman Club",
+        "type": "Hunting",
+        "address": "4982 State Road 133 Boscobel WI 53805",
+        "phone_number": 6084984144,
+        "website": "",
+        "description": "The mission of the Boscobel Area Sportsman Club is to operate a rod, gun and boat club; to engage in an educational program covering hunting, use of firearms, conservation, and all types of water recreation; to stock fish and all forms of wildlife; to improve conditions for wildlife growth; boating and outdoor recreation of all types; and to raise funds for such purposes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.623155,
+          43.175197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Bluffs State Natural Area",
+        "type": "Trails",
+        "address": "County Road MS and Oakes Road Boscobel WI 53805",
+        "phone_number": "",
+        "website": "http://dnr.wi.gov/topic/Lands/naturalareas/index.asp?SNA=316",
+        "description": "Boscobel Bluffs is a scenic 389-acre property in Grant County overlooking the City of Boscobel. This property is within the Wisconsin River Valley, and includes unique wind-blown features, rare dry prairie habitat, as well as oak savanna and oak woodlands. According to the Wisconsin Natural Heritage Inventory, dry prairie is considered globally rare and oak savanna is considered globally imperiled. These rare natural communities are home to species such as the State Endangered Wild Petunia, State Species of Concern Clustered Poppy Mallow, and State Threatened Tuberous Indian Plantain. This is also a great site for birding enthusiasts, as it is home to the elusive and State Threatened Hooded Warbler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.69098,
+          43.13155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brown's Guns & More",
+        "type": "Hunting",
+        "address": "1513 Elm Street, Boscobel WI 53805",
+        "phone_number": 3083754443,
+        "website": "http://www.brownsgunsandmore.com/Welcome.html",
+        "description": "At Brown’s Guns & More we offer a wide variety of items including rifles, shotguns, pistols, ammunition and bow hunting equipment. Remington, Browning, Winchester, Ruger- If we don’t have it we can probably get it. Want to buy? Trade it in. Don’t want to trade? Sell it. We do it all. It’s a great way to make some extra cash from items you have just laying around collecting dust. We are a Wisconsin licensed gun dealer and offer all services associated with the purchase and registration of firearms. Our inventory changes daily so stop in often to see what’s new."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.710181,
+          43.129065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floyd Von Haden Boat Landing and Recreation Area",
+        "type": "Nature and Outdoors",
+        "address": "Elm Street U.S. 61 State Highway 133, Boscobel WI 53805",
+        "phone_number": "",
+        "website": "",
+        "description": "The Floyd Von Haden Boat Landing & Recreation Area offers easy access to the lower Wisconsin River, which flows along the north edge of Boscobel. The lower river is a favorite of canoeists because of the scenic bluffs, serene nature, and miles of free flowing water. The river is relatively shallow, quite wide, and has plenty of sandbars for rest areas and camping. Fishing, boating, kayaking, tubing, hunting, and nature hikes are popular activities along the river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71649,
+          43.15306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gasser True Value Hardware & Just Ask Rental",
+        "type": "Shopping",
+        "address": "1704 Elm St. Boscobel WI 53805",
+        "phone_number": 6083755428,
+        "website": "http://ww3.truevalue.com/gasser/",
+        "description": "About Gasser True Value Gasser Hardware originally opened in 1902 with John Gasser, in the community of Blue River, WI. Ray Gasser, Johns younger brother, opened a store in Boscobel in 1923. The second generation of the family, Bob Schmidt Sr. and Virginia Gasser Schmidt took over the stores operation in 1946. Bob Sr. and a third generation Bob Jr. and Jan Folbrecht Schmidt bought out Schwartz Ace Hardware in downtown Lancaster in 1971. Bob Jr. and Jan ran the store until 1975, when they built a new 20,000 sq. ft. store on Hwy 61N in Lancaster. They bought out Bob Sr. in 1978 and in 1979 built a new 30,000 sq. ft. store in Boscobel. The fourth generation, Rob III and Dan helped continue the family tradition. Bob, Jan, and Rob opened a store in January 1997 in Hazel Green; two years later in October 1999, Dan joined the trio in the Galena and Maquoketa acquisitions. Gasser True Value Hardware and Farm Supply locales offer the primary source of plumbing, electrical, power tools and hardware in each town they are located. The company expanded its merchandise line in 1975 to include farm supplies fencing, animal health, convenience feeds and farm implement repair parts. Each company locale is also the primary source of farm and fencing supplies for their town. In the late 1970s the company expanded into lawn and garden including live plants and shrubs. August 1995, the decision was made to enter into the rental market with Just Ask RentalΝ, a store within a store. Offerings include tents, tables, chairs, heaters, fans, post hole diggers, to name a few. Rentals are available at every location except Hazel Green, where a grocery store (7,000 out of the 18,000 square foot) shares space with hardware. Hazel Green store customers have the opportunity to rent items from other Gasser outlets, if they so choose. In 1982, Gasser was the first hardware store in Wisconsin computerized to track inventory at point of sale. Today, all five stores are electronically linked. Nearly four generations later, Gasser True Value Hardware and Farm supply boasts five stores: Boscobel, Lancaster and Hazel Green in Wisconsin; Galena, Illinois; and Maquoketa, Iowa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70826,
+          43.12501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hickory Grove Golf Course",
+        "type": "Golf",
+        "address": "14562 US Hwy 61 Fennimore WI 53809",
+        "phone_number": 6088223314,
+        "website": "http://www.hickorygrovegolfcourse.com/",
+        "description": "Hickory Grove is located right on Hwy 61 about three miles north of Fennimore, WI. It is a nine hole par 36 course founded in 1968. The elaborate design and course conditions make this course a perfect golf opportunity. With its great food and great prices, Hickory Grove is one of the top notch courses in the area. If you are a golfer then you definitely need to make your way out to Hickory Grove and try this great golf experience. You will be welcomed by friendly faces and great service."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.660962,
+          43.034198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jers Outdoor Store",
+        "type": "Shopping",
+        "address": "1109 Wisconsin Ave, Boscobel, WI 53805",
+        "phone_number": 6087786900,
+        "website": "http://jersoutdoorgear.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.705386,
+          43.133525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krogen's DoItBest Hardware Store & Rent-It",
+        "type": "Shopping",
+        "address": "24 Wisconsin Ave, Boscobel, WI 53805",
+        "phone_number": 6083754656,
+        "website": "https://krogens.doitbest.com/",
+        "description": "TV – Appliance – Cellular Phones – Furniture – Hardware – Direct TV – Housewares – Sporting Goods – Power Equipment – Rental equipment – Appliance & Power Equipment Repair & Hunting Supplies – Home Decor. Krogen’s, established in 1933, takes pride in its service not only on all major brands of appliances and power equipment – but to its community. Visit our website to see the great selection of items we offer, or stop in, and let us help you out! Hours Monday thru Friday 8:00 am till 8:00 pm Saturday 8:00 am till 5:00 pm and Sunday 8:00 am till 4:00 pm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.44312,
+          43.19276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Andrew/ Blue River Boat Landing",
+        "type": "Canoeing/Kayaking",
+        "address": "State Hwy 60 Trunk & Co Hwy X Blue River WI 53518",
+        "phone_number": "",
+        "website": "",
+        "description": "Located 8 miles upriver from Boscobel; on the right bank of the Wisconsin River. Amenities, dumpster, and a convenience store 1/4 mile west on WI HWY 60."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.571815,
+          43.206415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tall Tail Sports & Spirits",
+        "type": "Liquor Stores",
+        "address": "101 W Legrand Street Boscobel WI 53805",
+        "phone_number": 6083755540,
+        "website": "",
+        "description": "Full service liquor store, bait shop & sporting goods. Buy, Sell & Trade guns. DNR licensing station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.706173,
+          43.137607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wauzeka Boat Launch",
+        "type": "Canoeing/Kayaking",
+        "address": "501-615 E Front St, Wauzeka, WI 53826",
+        "phone_number": "",
+        "website": "",
+        "description": "Lowell Geitz Memorial Boat Landing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8790619,
+          43.0853599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wauzeka Bottoms State Natural Area",
+        "type": "Nature and Outdoors",
+        "address": "Wauzeka Bottoms State Natural Area Wauzeka, WI 53826",
+        "phone_number": "",
+        "website": "http://dnr.wi.gov/topic/Lands/naturalareas/index.asp?SNA=221",
+        "description": "Part of the Lower Wisconsin Riverway, Wauzeka Bottoms contains an extensive stand of mature floodplain forest on the north side of the Wisconsin River. The canopy is dominated by silver maple, swamp white oak, river birch, and green ash, with lesser amounts of hackberry, American elm, honey locust, cottonwood, black willow, yellowbud hickory, and basswood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.860365,
+          43.081811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wauzeka Canoe Rental",
+        "type": "Canoeing/Kayaking",
+        "address": "1304 East Main St Wauzeka WI 53826",
+        "phone_number": 6088756766,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.870023,
+          43.089757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisconsin River Outings",
+        "type": "Canoeing/Kayaking",
+        "address": "715 Wisconsin Ave Boscobel WI 53805",
+        "phone_number": 6083875300,
+        "website": "http://canoe-camping.com/",
+        "description": "Providing paddle access to the tree lined shores and huge sand bars of the Wisconsin River. Experience a Wisconsin River adventure in one of our light weight Wenonah Canoes or one of our 14′ kayaks. Located in downtown Boscobel we provide access to the most quiet and scenic portion of the Wisconsin River for friends, family and to reconnect with nature."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70547,
+          43.13701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisconsin River Trail Organization",
+        "type": "Trails",
+        "address": "125 Vista Place Boscobel WI 53805",
+        "phone_number": 5072692606,
+        "website": "http://www.wirivertrail.org/",
+        "description": "Welcome to Wisconsin River Trail! We are in the process of building a bike trail that connects our little communities of Boscobel, Woodman, and Wauzeka to the river that makes us whom we are. We are excited to share every step of our way with you and our end product will be meeting you on our trail with a smile and a friendly ‘Hello’. Recently, our group was awarded a $200,000 State Stewardship Grant for the first phase of trail construction, which is scheduled for 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71468,
+          43.13069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A&W Restaurant",
+        "type": "Dining",
+        "address": "509 Elm Street Boscobel Wi 53805",
+        "phone_number": 6083755171,
+        "website": "http://www.awrestaurants.com/",
+        "description": "A&W has been at this location in Boscobel since 1949. Operated since March 1977, by Jeff and Lorie Kreul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7106004,
+          43.1390998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Bowl and Banquet",
+        "type": "Dining",
+        "address": "16971 Hwy 61 S Boscobel WI 53805",
+        "phone_number": 6083752200,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.704804,
+          43.122113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Hotel (Central House)",
+        "type": "Bars",
+        "address": "1005 Wisconsin Ave. Boscobel WI 53805",
+        "phone_number": 6083754714,
+        "website": "https://www.facebook.com/TheBoscobelHotel",
+        "description": "The Boscobel Hotel is on the State & National Registers of Historic Places; built in 1863. At almost any hotel in the world you will find a Gideon Bible provided by Gideons International. The birthplace of the Gideons was the Central House Hotel on September 14, 1898. Traveling salesmen John H. Nicholson of Janesville, Wisconsin, and Samuel E. Hill of Beloit, Wisconsin, shared a room in the crowded hotel because of a lumbermans convention. In Room 19, the men discovered that they were both Christians; they talked about starting a Christian traveling mens association. The following May the two salesmen, joined by a third, William J. Knights, rekindled that idea, and on July 1, 1899, founded the Gideons. The name Gideon comes from the Old Testament Book of Judges, and refers to a man who was willing to do whatever God asked of him. Today, the Boscobel Hotel, where the two founders met, is listed on the National Historical Register, and Room 19, where the idea of the Gideons was conceived, is preserved and marked with a special plaque."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.705379,
+          43.134453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carol's Bar & Grill",
+        "type": "Bars",
+        "address": "103 Guard St Wauzeka WI 53826",
+        "phone_number": 6088756151,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8844709,
+          43.0834859
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castle Rock Inn",
+        "type": "Dining",
+        "address": "5040 Shemak Rd Muscoda WI 53573",
+        "phone_number": 6089438525,
+        "website": "",
+        "description": "Bar Restaurant Supper Club Serving Mon-sat 11am-9pm Sunday Brunch 9am-1:30 Sunday chicken 1:30-9pm Lunch and Supper Specials Mon-Fri $1.75 happy hour 3-5pm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.499642,
+          43.0564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China King Chinese Restaurant",
+        "type": "Dining",
+        "address": "928 Wisconsin Ave. Boscobel WI 53805",
+        "phone_number": 6083755330,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70614,
+          43.13499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottonwood Sports Bar & Supper Club",
+        "type": "Dining",
+        "address": "47169 Green River Rd, Fennimore WI 53809",
+        "phone_number": 6088226314,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.656783,
+          42.999653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dairy Queen Brazier",
+        "type": "Dining",
+        "address": "1100 Elm Street Boscobel WI 53805",
+        "phone_number": "",
+        "website": "https://www.dairyqueen.com/us-en/?localechange=1&",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71103,
+          43.13336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Double K's Bar",
+        "type": "Bars",
+        "address": "900 Wisconsin Avenue Boscobel WI 53805",
+        "phone_number": 6083755404,
+        "website": "https://www.facebook.com/Double-Ks-bar-grill-150431208376047/",
+        "description": "Great food, refreshing drinks, and good fun! Join us for Friday night DJs. Wednesday’s menu is Mexican Night."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70614,
+          43.13552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farmer's Market",
+        "type": "Groceries",
+        "address": "Depot Lane, Boscobel WI 53805",
+        "phone_number": "",
+        "website": "https://www.facebook.com/boscobelfarmersmarket/",
+        "description": "Boscobel’s Farmers Market In May 2015, Boscobel launched its first farmers market to bring a variety of fresh produce and other local products to area residents and visitors. The market is open every Saturday from 8:00 a.m. to noon from mid-May through mid-October. The market is located in Boscobel’s Depot Park, right between Highway 61 and Wisconsin Avenue (Boscobel’s main street), on Depot Lane. Look for the “”Boscobel Station”” Depot Museum. We have plenty of convenient parking, too. Many Saturdays, we have live music and activities for families and children to enjoy. Check out our Facebook page for more information and photos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70853,
+          43.13475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grumpy Girl Bar & Girl",
+        "type": "Bars",
+        "address": "103 Clinton St Blue River WI",
+        "phone_number": 6085372935,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.56869,
+          43.18643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home Town Liquor",
+        "type": "Liquor Stores",
+        "address": "1600 Elm Street Boscobel Wi 53805",
+        "phone_number": "",
+        "website": "",
+        "description": "Wine, beer, specialty cheeses, etc. Convenient drive-thru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70992,
+          43.12717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honker's Pub, Eatery & Motel",
+        "type": "Lodging",
+        "address": "34055 WI-60 Trunk, Muscoda, WI 53573",
+        "phone_number": "",
+        "website": "http://honkersmuscoda.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1928099,
+          43.191205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mrs. B's Bakery",
+        "type": "Dining",
+        "address": "800 Elm St Boscobel WI 53805",
+        "phone_number": 6083911690,
+        "website": "http://www.mrsbsbakery.net/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71105,
+          43.13636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piggly Wiggly Supermarket",
+        "type": "Groceries",
+        "address": "106 W Oak Street Boscobel WI 53805",
+        "phone_number": 6083754472,
+        "website": "http://www.pigglywiggly.com/",
+        "description": "Take it from Mr. Pig: When it comes to value and freshness, you can’t beat Piggly Wiggly. With over 600 stores in 17 states, Piggly Wiggly has been bringing home the bacon for millions of American families since 1916. Today, we’re one of the best-known and best-loved brands in America."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70698,
+          43.13429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snicks  Fin N Feather",
+        "type": "Bars",
+        "address": "826 Wisconsin Ave Boscobel WI 53805",
+        "phone_number": "",
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70599,
+          43.13602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway",
+        "type": "Dining",
+        "address": "603 Elm Street Boscobel WI 53805",
+        "phone_number": 6083757444,
+        "website": "http://www.subway.com/en-us",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7106126,
+          43.138218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pink Spot",
+        "type": "Coffee Shops",
+        "address": "118 N. Wisconsin Ave. Muscoda WI 53573",
+        "phone_number": 6087393770,
+        "website": "",
+        "description": "Flower, gift & coffee shoppe Fresh flowers, plants, soup & sandwich, desserts, gifts, candy bouquets and much more. Katy Grimm owner & designer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4430109,
+          43.1856093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timber Lane Coffee",
+        "type": "Coffee Shops",
+        "address": "934 Wisconsin Ave Boscobel WI 53805",
+        "phone_number": 6083759123,
+        "website": "http://www.timberlanecoffee.com/",
+        "description": "We are a quaint coffee shop located in downtown historic Boscobel, Wisconsin. We serve a variety of beverages and food (many items are made from scratch right here at TLC ). Take a look at our menus for selection and prices. Many of our food/beverage items are organic, and we also receive a weekly CSA box of organic produce from Westridge Organics during the summer/fall. Additionally, our cups and other disposable items are made from recycled goods. Stop in, revel in our cozy atmosphere and friendly baristas, and enjoy some delicious drinks and food! See you soon!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70614,
+          43.13484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unique Café",
+        "type": "Dining",
+        "address": "1100 Wisconsin Ave Boscobel WI 53805",
+        "phone_number": 6083754465,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70617,
+          43.13368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Udder Brother's Creamery",
+        "type": "Dining",
+        "address": "1518 Elm Street, Boscobel Wi 53805",
+        "phone_number": 6083913120,
+        "website": "",
+        "description": "Come join us for a cool ice-cream and petting zoo. Open daily from 11 am to 8 pm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7103958,
+          43.1284957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vale Inn",
+        "type": "Dining",
+        "address": "813 Wisconsin Ave. Boscobel WI 53805",
+        "phone_number": 6083754456,
+        "website": "",
+        "description": "We offer Breakfast, Lunch and Dinner, and Drinks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70539,
+          43.13622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Violet Dreams Bakery & Pizza",
+        "type": "Dining",
+        "address": "5948 West Bluff Street Boscobel WI 53805",
+        "phone_number": 6083755666,
+        "website": "https://www.facebook.com/Violet-Dreams-LLC-114848878588097/",
+        "description": "Along with our bakery items listed below, we also have frozen pasty for sale and we bake hot, fresh pizza. If pizza is ordered by 5:00 PM, there is free “in-town” delivery available. Bluff Street. We bake Daily: Homemade breads, cinnamon rolls, cookies and bagels. We also make donuts, pies, muffins, specialty breads, and frozen homemade noodles. We will make your “old” family recipes if you wish. Also make special order salads, cakes, etc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.717729,
+          43.133908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolfy's Irish Inn",
+        "type": "Bars",
+        "address": "203 N Wisconsin Ave Muscoda Wisconsin 53573",
+        "phone_number": "",
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4435,
+          43.18682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Signs & Designs",
+        "type": "Shopping",
+        "address": "300 Second St. Boscobel WI 53805",
+        "phone_number": 6083757446,
+        "website": "http://www.americansignsdesigns.com/",
+        "description": "American Signs & Designs is where America comes for high quality, affordable LED Signs, Awnings, Billboards, and Signs of All Types. We design, manufacture and distribute signs of all types throughout the entire country. At American Signs & Designs there is no sign that is too large or too small for us to produce. We have become well known for our distribution of what we call LED TV Signs. LED TV is our unique and original approach to LED Sign content or programming. We believe that if you own a LED Sign that can only display text, then you only own half a sign. Even our smallest outdoor LED display comes with a complete animation library absolutely free, unlike any other company anywhere. In addition to being a leader in LED Moving Message Signs, American Signs & Designs fabricates custom awnings, builds both illuminated and non illuminated signs, and digital prints everything from bumper stickers to billboards."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.69134,
+          43.142908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bender Foods",
+        "type": "Groceries",
+        "address": "320 Lincoln Ave Fennimore WI 53809",
+        "phone_number": 6088226112,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.655681,
+          42.98894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bloomiing Basket Floral",
+        "type": "Shopping",
+        "address": "106 W. Oak St., Boscobel, WI 53805",
+        "phone_number": 6083754472,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70698,
+          43.13429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Pharmacy",
+        "type": "Shopping",
+        "address": "1028 Wisconsin Ave, Boscobel WI 53805",
+        "phone_number": 6083754466,
+        "website": "http://www.boscobelpharmacy.com/",
+        "description": "We’ve been serving the community of Boscobel and the surrounding area since 2011. Our pharmacist has 20 years of experience and our friendly staff will treat you like family. Here at Boscobel Pharmacy, we are dedicated to providing our customers with services that are customized to meet their needs. Whether it’s prescription medications or over the counter products, we are here to answer any and all of your questions. If you haven’t taken advantage of one of our many services, call or stop by and see us today!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70617,
+          43.13409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey's General Store",
+        "type": "Groceries",
+        "address": "1500 Elm Street Boscobel WI 53805",
+        "phone_number": 6083754114,
+        "website": "http://www.caseys.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.710937,
+          43.129951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Classic Reruns Consignment",
+        "type": "Shopping",
+        "address": "1103 Wisconsin Ave. Boscobel WI 53805",
+        "phone_number": 6083755979,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.705485,
+          43.133657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deb's Flowers",
+        "type": "Gifts and Antiques",
+        "address": "608 Elm St, Boscobel, WI 53805",
+        "phone_number": 6083754821,
+        "website": "http://www.flowersboscobel.com",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7107372,
+          43.1381788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dollar General",
+        "type": "Groceries",
+        "address": "710 Elm St. Boscobel WI 53805",
+        "phone_number": 6083754135,
+        "website": "http://www.dollargeneral.com//",
+        "description": "Dollar General Corporation is the nation’s largest small-box discount retailer. We make shopping for everyday needs simpler and hassle-free by offering a carefully edited assortment of the most popular brands at low everyday prices in small, convenient locations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71147,
+          43.13678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Family Outreach Thrift Shop",
+        "type": "Shopping",
+        "address": "905 Wisconsin St. Boscobel WI 53805",
+        "phone_number": "",
+        "website": "",
+        "description": "Hours Tues – Sat from 10 AM – 5 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70539,
+          43.13548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fillback Dealership",
+        "type": "Shopping",
+        "address": "1702 Elm St. Boscobel WI 53805",
+        "phone_number": 6083754664,
+        "website": "http://www.fillbackchevy.com/",
+        "description": "At Fillback Chevrolet Buick, we carry a full line of new Chevrolet &amp; Buick cars, trucks, vans and SUV’s. We pride ourselves in being the Tri-Counties #1 Pre-Owned Dealer. With over 100 pre-owned vehicles in stock, we are bound to have a vehicle to fit any budget. We have been servicing the motoring needs of Southwest Wisconsin for over 60 years and we are proud of our low pressure, down-home approach to servicing our customer’s needs. We are here to answer questions and help you find the right vehicle for your needs. As a family-run enterprise, Fillbacks is dedicated to offering a superlative customer experience in a relaxed, fun, family-oriented atmosphere. We are dedicated to building long-term relationships with customers through the finest quality vehicles, excellent financing and superior support and service."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.708684,
+          43.125738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatherings Home & County Décor",
+        "type": "Gifts & Antiques",
+        "address": "903 Elm St. Boscobel WI 53805",
+        "phone_number": 6083752556,
+        "website": "http://www.wisconsinhomedecor.com/",
+        "description": "Browse over 3,000 square feet of creative displays of our merchandise, sure to inspire you to decorate your home! Offers Country Decor, Candles, Jewelry, etc., Furniture & Fabric Hours: Monday Closed Tuesday thru Friday 10:00 AM – 5:30 PM Saturday 10:00 AM till 5:00 PM Sunday 11:00 AM till 4:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.710431,
+          43.135387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim's Silver Dollar",
+        "type": "Bars",
+        "address": "910 Wisconsin Ave. Boscobel WI 53805",
+        "phone_number": 6083754650,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70614,
+          43.13537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krachey's BP Gas Station/Convenience Store",
+        "type": "Groceries",
+        "address": "601 Elm St Boscobel WI 53805",
+        "phone_number": 6083752660,
+        "website": "http://www.bp.com/",
+        "description": "We have Hot Stuff Pizza- Personal Pans, Mediums, Larges. We also do Take n’ Bake Hot Stuff Pizza. A variety of breakfast foods, lunches, and dinners. Call for specials. We have a Lazer Touch free Wash with different levels of washes. We have gasoline and diesel fuel. We have LP tanks for either exchange or to purchase a new one. WI Lottery tickets. Ice. Touch Free Car Wash."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7106122,
+          43.1382318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwik Trip",
+        "type": "Groceries",
+        "address": "305 W. Prairie St. Boscobel WI 53805",
+        "phone_number": "",
+        "website": "https://www.kwiktrip.com/",
+        "description": "From the start, we’ve focused on doing right by our customers and our community. We’ve stocked the freshest foods and kept prices low by making things ourselves and keeping a close eye on costs. Then we’ve passed the savings on to you. Every day of the year, over 14,000 associates in the Kwik Trip family work together to make and deliver the freshest food, produce and fuel safely to our stores. We inspect, test and sample every delivery to be sure it’s only the best. We operate our own bakery, dairy and kitchens to make sure everything we sell is as big on fresh as it is low on price. We work around the clock to make sure every time you walk in our doors you get the most your hard-earned money can buy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7093157,
+          43.1401965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L & M's BP",
+        "type": "Groceries",
+        "address": "210 E Main St Wauzeka WI 53826",
+        "phone_number": 6088756202,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.883333,
+          43.08453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Ridge Innovations LLC",
+        "type": "Shopping",
+        "address": "46720 Maple Ridge Rd., Boscobel, WI 53805",
+        "phone_number": 6084762327,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.795393,
+          43.200816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meister Cheese Co",
+        "type": "Shopping",
+        "address": "1050 E. Nebraska St. Muscoda WI 53573",
+        "phone_number": 6087393134,
+        "website": "http://www.meistercheese.com/",
+        "description": "We’re committed to conceiving, producing, and packaging high-quality specialty cheeses that evoke artisanal quality. By combining state-of-the-art facilities & processes with Wisconsin cheesemaking expertise, we consistently and reliably provide our partners with high-margin “”gourmet”” cheeses that build brand and drive customer loyalty all at a price that’s competitive with “”commodity”” cheese manufacturers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.429207,
+          43.185411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muscoda Mini Mart",
+        "type": "Groceries",
+        "address": "102 S. Wisconsin Ave. Muscoda WI 53573",
+        "phone_number": 6087393733,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.442653,
+          43.185068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muscoda Shell One Stop",
+        "type": "Groceries",
+        "address": "802 N Wisconsin Ave Muscoda Grant WI 53573-9111",
+        "phone_number": 6087393616,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.443056,
+          43.1926165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Horizons Cenex Gas Station- Blue River",
+        "type": "Groceries",
+        "address": "303 Exchange St. Blue River WI 53518",
+        "phone_number": 6085372751,
+        "website": "http://www.newhorizonsco-op.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5697224,
+          43.1858823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Horizons Cenex Gas Station- Boscobel",
+        "type": "Groceries",
+        "address": "401 Elm St Boscobel WI 53805",
+        "phone_number": 6083754801,
+        "website": "http://www.newhorizonsco-op.com/",
+        "description": "Gas station and convenience store at the intersection of Hwys 61 and 133 on the north side of Boscobel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7103,
+          43.13992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Next Gen Flooring",
+        "type": "Shopping",
+        "address": "906 Wisconsin Ave, Boscobel, WI 53805",
+        "phone_number": 6083759998,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70614,
+          43.13544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierce's Supermarket",
+        "type": "Groceries",
+        "address": "122 W Nebraska Muscoda WI 53573",
+        "phone_number": 6087393125,
+        "website": "http://piercesmarkets.com/landing/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.444109,
+          43.185849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Cap Early Head Start",
+        "type": "Gifts & Antiques",
+        "address": "400 Johnson St Boscobel WI 53805",
+        "phone_number": 6083752714,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.687769,
+          43.1452276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SWCAP Thrift Store",
+        "type": "Shopping",
+        "address": "402 Johnson Street, Boscobel, WI 53805",
+        "phone_number": 6083755903,
+        "website": "http://swcap.org",
+        "description": "We offer high quality gently used clothing, furniture, home décor, books, toys and house-wares at extremely low prices."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.687769,
+          43.1452276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Quick Running Squash Gift Shop and Studio",
+        "type": "Gifts & Antiques",
+        "address": "504 Elm St, Boscobel, WI 53805",
+        "phone_number": 6084850406,
+        "website": "http://thequickrunningsquash.weebly.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71126,
+          43.13864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walsh's Ace Hardware",
+        "type": "Gifts & Antiques",
+        "address": "115 W Nebraska St Muscoda WI 53573",
+        "phone_number": 6087393175,
+        "website": "http://www.aceoflacrosse.com/locations/muscoda/",
+        "description": "Household items, tools, camping, hunting, gifts, home decor, and flowers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.443951,
+          43.185114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wild Side Sporting Goods, LLC",
+        "type": "Shopping",
+        "address": "1521 Elm Street, Boscobel, WI 53805",
+        "phone_number": 6083750501,
+        "website": "",
+        "description": "We have all your hunting and fishing needs we carry. Bear and Parke bows, hunting blinds, fishing tackle, indoor archery range, minnows and live bait, rocky clothing and muddy girl clothing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70906,
+          43.12785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Depot Museum",
+        "type": "Museums and Attractions",
+        "address": "800 Wisconsin Ave Boscobel WI 53805",
+        "phone_number": 6083752672,
+        "website": "",
+        "description": "Since the construction of the old depot in 1857, the Boscobel Depot was the heartbeat of the area. It served as the marshaling point of 2,000 plus young enlisted men of the Union Army and again in subsequent years of W.W.I and W.W.II. It also served the area with food and industrial goods, as well as travel-through station. Included among notable people entering the City were the two traveling salesmen, Samuel E. Hill and John H. Nicholson, who began the writings of the Gideon Bible, as well as John Blaine who left the City for a 3-term governorship of Wisconsin and later adversary for President Franklin D. Roosevelt. The Boscobel Depot has recently been restored and will again serve the community as a very functional building with the conversion of its interior into a Turn-of-the-Century Railroad and Early Rural American Walk-through Museum. The Boscobel Chamber of Commerce and Boscobel Community Foundation offices are located in the Depot building. For more information call 608-375-2672."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7058299,
+          43.1361721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boscobel Veterans Memorial Fund, Inc",
+        "type": "Museums and Attractions",
+        "address": "836 Wisconsin Ave, Boscobel, WI 53805",
+        "phone_number": 6084851998,
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.706141,
+          43.135826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagle Cave Inc",
+        "type": "Museums and Attractions",
+        "address": "16320 Cavern Lane Blue River WI 53518",
+        "phone_number": "",
+        "website": "http://www.eaglecave.net/",
+        "description": "Eagle Cave is an onyx cave located near Blue River, Wisconsin, in Richland County, Wisconsin, United States. Eagle Cave is known as Wisconsin’s largest onyx cave and was the first cave to be commercially owned and operated in Wisconsin. The site offers camping, mini golf and many other activities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5401,
+          43.2441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Army of the Republic Hall",
+        "type": "Museums and Attractions",
+        "address": "102 Mary St. Boscobel WI 53805",
+        "phone_number": 6083752672,
+        "website": "",
+        "description": "State & National Registers of Historic Places A meeting hall for veterans of the Grand Army of the Republic was established after the Civil War and it still stands today. It is considered by experts to be the only remaining G.A.R. Hall in Wisconsin, possibly the Midwest. The G.A.R. Civil War Museum is filled with momentos of the Civil War era. Pictures, old drums and flags, even volumes of history from local veterans can be seen at the hall. The Hall received State & National Registers of Historic Places designation on December 27, 2007. The G.A.R. Hall is open by appointment in June, July & August"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.706598,
+          43.131752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+
+        "name": "Grant County Fair",
+        "type": "Museums and Attractions",
+        "address": "916 E Elm Street Suite B Lancaster WI 53813",
+        "phone_number": 6087232135,
+        "website": "http://grantcountyfairwi.org/",
+        "description": "The Grant County Fairgrounds provides a clean, safe and functional facility for the surrounding communities. Multiple buildings, a horse arena and a race track sit on 40 acres of land. The fair strives to give youth the opportunity to display and show their talents while creating positive youth experiences for all 4-H, FFA and other youth group members."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4798108,
+          42.743144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shadewald Mounds",
+        "type": "Museums and Attractions",
+        "address": "State Hwy 60 Trunk & WI-193 Muscoda WI 53573",
+        "phone_number": "",
+        "website": "http://www.wisconsinmounds.com/ShadewaldMounds.html",
+        "description": "Shadewald Mound Group (sometimes called Elder Group) is an incredibly well preserved group of Native American effigy mounds. Thanks to Frank Shadewald, who purchased the land with the sole purpose of preserving the mounds, there is no other group of mounds that could compare with Shadewald as far as the state of preservation goes. There are two clusters of mounds out there. One is located on top of Frank’s Hill and consists of, among others, a raptor and a bison effigies. The other cluster is on top of the hill just across the road from Frank’s Hill (below). It consists of 12 conical mounds in almost perfect linear formation within the same distance of one another. It is thought that the mounds have some calendar meaning. Although its unlikely the Native American and Roman (with 12 months) calendars had anything in common, events like lunar cycles and solstice are the same all around the world – and that’s where that string of mounds comes in. Both groupings are located on both sides of HWY193 just north of the intersection with HWY60 west of Muscoda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46538,
+          43.21885
+        ]
+      }
+    }
+  ]
+}

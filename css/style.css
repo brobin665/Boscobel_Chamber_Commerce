@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:800px;
+	
+}
+#map { 
+	height: 100%;
+	width: 78%;
+	display: inline-block;
+	margin-left:1%;
+	font-family: 'Roboto', sans-serif;
+}
+
+#inputs{
+	display:inline-block;
+	float:left;
+	width:20%;
+	font-family: 'Roboto', sans-serif;
+}
+#directions{
+	position:absolute;
+	top:20%;
+	z-index: 99;
+    background: rgba(0,0,0,.8);
+    overflow: auto;
+    width: 20%;
+	font-family: 'Roboto', sans-serif;
+	
+}
